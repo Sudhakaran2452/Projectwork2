@@ -48,7 +48,8 @@ The application leverages YOLO-based object detection, CNN feature extraction, a
  - Directional vibration patterns are generated
  - User receives tactile feedback for navigation
  - 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1130" height="618" alt="Screenshot 2025-12-28 165918" src="https://github.com/user-attachments/assets/19963666-b39f-47dd-9a5a-c54ad3670999" />
+
 
 
 ## Output
