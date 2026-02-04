@@ -47,7 +47,7 @@ The application leverages YOLO-based object detection, CNN feature extraction, a
  - Spatial location is mapped (left/right/front/back)
  - Directional vibration patterns are generated
  - User receives tactile feedback for navigation
- - 
+   
 <img width="1130" height="618" alt="Screenshot 2025-12-28 165918" src="https://github.com/user-attachments/assets/19963666-b39f-47dd-9a5a-c54ad3670999" />
 
 
